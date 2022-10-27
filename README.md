@@ -15,6 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./design/desktop-design.jpg)
 
+### Links
+
 - Solution URL: [https://github.com/AndresBojaca/andresbojaca.github.io](https://github.com/AndresBojaca/andresbojaca.github.io)
 - Live Site URL: [https://andresbojaca.github.io/](https://andresbojaca.github.io/)
 
