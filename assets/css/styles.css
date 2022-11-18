@@ -23,7 +23,7 @@ html,body{
 
 .cardqr {
     background-color: var(--white);
-    width: 330px;
+    width: 320px;
     border-radius: 20px;
     text-align: center;
     padding: 15px;
