@@ -23,7 +23,7 @@ html,body{
 
 .cardqr {
     background-color: var(--white);
-    width: 320px;
+    width: 318px;
     border-radius: 20px;
     text-align: center;
     padding: 15px;
@@ -35,10 +35,10 @@ html,body{
     border-radius: 10px;
 }
 .cardqr .text{
-    margin: 20px;
+    margin: 16px 20px;
 }
 .cardqr h1{
-    font-size: 22px;
+    font-size: 21px;
     margin-bottom: 15px;
     color: var(--dark_blue);
 }
